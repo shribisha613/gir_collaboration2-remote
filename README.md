@@ -1,3 +1,3 @@
 # gir_collaboration2
 
-i made the changes in remote file , this is an update from local collaborator
+This is the chnage made from both the collaborators
