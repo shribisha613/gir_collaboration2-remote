@@ -1,7 +1,3 @@
 # gir_collaboration2
 
-This is changemade in the forked repo bby me
-
-this  is change maded from shribi911
-
-New changes 
+this is changes made from the upstream collaborator shribi911
