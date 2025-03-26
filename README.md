@@ -1,7 +1,3 @@
 # gir_collaboration2
 
-This is changemade in the forked repo bby me
-
-this  is change maded from shribi911
-
-New changes 
+i made the changes in remote file , this is an update from local collaborator
